@@ -15,4 +15,9 @@
 🧬 **Health Informatics Explorer** — decoding the language of healthcare through R, Python, and SQL.  
 🚀 **Data Storyteller** — I turn raw healthcare data into insights that matter, powering better decisions and outcomes.
 
+## 💡 My Toolkit
+Python | R | SQL | Tableau | Power BI | R Shiny | Excel (Power Query & Pivot) | REDCap | OpenEMR | DHIS2 | ICD-10 | HL7
+
+
+
 
