@@ -2,7 +2,8 @@
 
 <h3>Hey there, curious mind! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Gopi+Krishna+Boppana;Data+Analyst;Health+Informatics+Specialist&color=ff6347" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=300&duration=5000&center=true&vCenter=true&width=435&lines=I'm+Gopi+Krishna+Boppana;Data+Analyst;Health+Informatics+Specialist&color=ff6347" alt="Typing SVG" />
+
 
 🎓 **Health Informatics & Data Enthusiast** | 💊 **From Meds to Metrics** | 🔍 **Passionate About Advancing Health with Code**
 
