@@ -18,6 +18,22 @@
 ## 💡 My Toolkit
 Python | R | SQL | Tableau | Power BI | R Shiny | Excel (Power Query & Pivot) | REDCap | OpenEMR | DHIS2 | ICD-10 | HL7
 
+### 📚 Currently Learning
+
+<details>
+  <summary>Artificial Intelligence in Healthcare</summary>
+  Exploring AI applications for diagnostics, predictive models, and patient outcome forecasting to enhance healthcare delivery and decision-making.
+</details>
+
+<details>
+  <summary>Large Language Models (LLMs)</summary>
+  Diving into NLP with GPT, BERT, and Transformers for text generation, sentiment analysis, and conversational AI to solve real-world problems.
+</details>
+
+<details>
+  <summary>Medical Imaging with Deep Learning</summary>
+  Working with Convolutional Neural Networks (CNNs) for medical image analysis, aiming to improve diagnostic accuracy in radiology and pathology.
+</details>
 
 
 
