@@ -23,19 +23,24 @@ Python | R | SQL | Tableau | Power BI | R Shiny | Excel (Power Query & Pivot) | 
 ## 🎯 Currently Learning
 <details>
   <summary>Artificial Intelligence in Healthcare</summary>
-  Exploring AI applications for diagnostics, predictive models, and patient outcome forecasting to enhance healthcare delivery and decision-making.
+  <ul>
+    <li>Exploring AI applications for diagnostics, predictive models, and patient outcome forecasting to enhance healthcare delivery and decision-making.</li>
+  </ul>
 </details>
 
 <details>
   <summary>Large Language Models (LLMs)</summary>
-  Diving into NLP with GPT, BERT, and Transformers for text generation, sentiment analysis, and conversational AI to solve real-world problems.
+  <ul>
+    <li> Diving into NLP with GPT, BERT, and Transformers for text generation, sentiment analysis, and conversational AI to solve real-world problems.</li>
+  </ul>
 </details>
 
 <details>
   <summary>Medical Imaging with Deep Learning</summary>
-  Working with Convolutional Neural Networks (CNNs) for medical image analysis, aiming to improve diagnostic accuracy in radiology and pathology.
+  <ul>
+    <li>  Working with Convolutional Neural Networks (CNNs) for medical image analysis, aiming to improve diagnostic accuracy in radiology and pathology.</li>
+  </ul>
 </details>
-
 
 ## 🌱 Fun Fact
 I once reviewed over 1,500 prescriptions a month — now I write just as many lines of code!
