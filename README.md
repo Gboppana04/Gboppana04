@@ -1,3 +1,5 @@
+<div style="background-color: #f8f1f1; padding: 20px; border-radius: 10px;">
+
 <div align="center">
 
 <h3>Hey there, curious mind! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h3>
