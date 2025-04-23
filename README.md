@@ -1,5 +1,3 @@
-<div style="background-color: #f8f1f1; padding: 20px; border-radius: 10px;">
-
 <div align="center">
 
 <h3>Hey there, curious mind! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h3>
@@ -44,7 +42,9 @@ I once reviewed over 1,500 prescriptions a month — now I write just as many li
 
 
 ## 📬 Let's Connect!
-- 💼 Interested in working together? Reach out via [email](mailto:gopikrishnaboppana9598@gmail.com).
+- 💼 Interested in working together? Reach out via [email](mailto:gopikrishnaboppana9598@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gopi-boppana4/).
 - 💬 Got a question or just curious about something? I'm always open to a conversation!
+
+
 
 
