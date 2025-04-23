@@ -10,7 +10,7 @@
 
 <br>
 
-## 🧠 About Me
+## 👤 About Me
 🩺 **PharmD ➡️ 💻 Health Informatics** — A pharmacist-turned-data analyst navigating the healthcare world through code.  
 🧬 **Health Informatics Explorer** — decoding the language of healthcare through R, Python, and SQL.  
 🚀 **Data Storyteller** — I turn raw healthcare data into insights that matter, powering better decisions and outcomes.
@@ -18,8 +18,8 @@
 ## 💡 My Toolkit
 Python | R | SQL | Tableau | Power BI | R Shiny | Excel (Power Query & Pivot) | REDCap | OpenEMR | DHIS2 | ICD-10 | HL7
 
-### 📚 Currently Learning
 
+## 🎯 Currently Learning
 <details>
   <summary>Artificial Intelligence in Healthcare</summary>
   Exploring AI applications for diagnostics, predictive models, and patient outcome forecasting to enhance healthcare delivery and decision-making.
@@ -35,5 +35,13 @@ Python | R | SQL | Tableau | Power BI | R Shiny | Excel (Power Query & Pivot) | 
   Working with Convolutional Neural Networks (CNNs) for medical image analysis, aiming to improve diagnostic accuracy in radiology and pathology.
 </details>
 
+
+## 🌱 Fun Fact
+I once reviewed over 1,500 prescriptions a month — now I write just as many lines of code!
+
+
+## 📬 Let's Connect!
+- 💼 Interested in working together? Reach out via [email](mailto:gopikrishnaboppana9598@gmail.com).
+- 💬 Got a question or just curious about something? I'm always open to a conversation!
 
 
